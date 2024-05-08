@@ -1,4 +1,3 @@
-# Readme
 # 💫 About Me:
 I am a results-oriented Data analyst and ML Researcher with a firm grasp of technical skills and a deep commitment to driving accurate, impactful, data-driven decisions. Through my extensive background and mastery of complex technical and business skills, I intend to strive to make myself sharper by the day in providing organizations with valuable insights and empowering them to achieve their goals. Another skill and passion that sets me apart from other candidates is that I possess an unwavering passion for learning and a deep-seated commitment to sharing my knowledge with others.<br><br>Technical skills include Python, R programming, AWS, Google Cloud, Data Collection, Data Cleaning, Data Analytics, Machine Learning, Deep Learning, SQL, MYSQL, MongoDB, Computer Vision, Tableau, PowerBI, and Android Studios. Also received recognition for my skills as a Kaggle 2x Master and recipient of the AWS AI ML Scholarship 2022.<br><br>Currently pursuing a post-graduation in Information Technology Business Analysis at Conestoga College and has completed the AI with Python Programming Nanodegree from Udacity. I hold a Bachelor's degree in Computer Engineering from GEC, Patan, where I developed problem-solving skills focusing on logic development and mastered various programming languages, including Python, C++, and Java.I am a results-orie
 
@@ -17,10 +16,7 @@ I am a results-oriented Data analyst and ML Researcher with a firm grasp of tech
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-Trivedi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubham-Trivedi&icon=4&color=6)](https://visitcount.itsvg.in)
