@@ -16,7 +16,7 @@ I am a results-oriented Data analyst and ML Researcher with a firm grasp of tech
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-Trivedi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubham-Trivedi&icon=4&color=6)](https://visitcount.itsvg.in)
