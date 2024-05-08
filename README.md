@@ -21,4 +21,7 @@ I am a results-oriented Data analyst and ML Researcher with a firm grasp of tech
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubham-Trivedi&icon=4&color=6)](https://visitcount.itsvg.in)
 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
