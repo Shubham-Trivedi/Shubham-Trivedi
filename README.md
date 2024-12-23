@@ -3,8 +3,8 @@ I am a results-oriented Data analyst and ML Researcher with a firm grasp of tech
 
 ## Portfolio Links
 
-Data Visulization: ![Power BI](https://github.com/Shubham-Trivedi/Power-BI-Portfolio/blob/main/Powerbi%20Portfolio.pdf) ![Tableau](https://public.tableau.com/app/profile/shubham3849/vizzes)
-Data Analysis in Python and ML: ![Kaggle](https://www.kaggle.com/shubhamptrivedi/code)
+Data Visulization: [Power BI](https://github.com/Shubham-Trivedi/Power-BI-Portfolio/blob/main/Powerbi%20Portfolio.pdf) [Tableau](https://public.tableau.com/app/profile/shubham3849/vizzes)
+Data Analysis in Python and ML: [Kaggle](https://www.kaggle.com/shubhamptrivedi/code)
 
 
 ## 🌐 Socials:
